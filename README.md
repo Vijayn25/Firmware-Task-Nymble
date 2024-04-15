@@ -10,7 +10,7 @@ This firmware project demonstrates how to store data in the EEPROM of an ESP8266
 - Baud Rate : 2400 
 - EEPROM Memory : 4kb 
 
-![NodeMCU Picture](nodemcu_picture.jpg)
+![NodeMCU Picture]()
 
 ## Features
 - Read and write data to EEPROM on ESP8266-12E.
